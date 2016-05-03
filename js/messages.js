@@ -2,6 +2,7 @@ var messages = {
   next: {
     'en': 'Next',
     'de': 'Weiter',
+    'da': 'Næste',
     'fr': 'Suivant',
     'pt-br': 'Próximo',
     'es': 'Siguiente',
@@ -22,6 +23,7 @@ var messages = {
   labelFooter: {
     'en': 'Flexbox Froggy is created by',
     'de': 'Flexbox Froggy wurde gemacht von',
+    'da': 'Flexbox Froggy er lavet af',
     'fr': 'Flexbox Froggy est créé par',
     'pt-br': 'Flexbox Froggy foi criado por',
     'es': 'Flexbox Froggy es una creación de',
@@ -42,6 +44,7 @@ var messages = {
   labelLevel: {
     'en': 'Level',
     'de': 'Level',
+    'da': 'Niveau',
     'fr': 'Niveau',
     'pt-br': 'Nível',
     'es': 'Nivel',
@@ -62,13 +65,14 @@ var messages = {
   labelOf: {
     'en': 'of',
     'de': 'von',
+    'da': 'af',
     'fr': 'de',
     'pt-br': 'de',
     'es': 'de',
     'ru': 'из',
     'fa': 'از',
     'zh-cn': '/',
-    'zh-tw': '/', 
+    'zh-tw': '/',
     'tr': '/',
     'it': 'di',
     'ko': 'of',
@@ -82,6 +86,7 @@ var messages = {
   title: {
     'en': 'Flexbox Froggy - A game for learning CSS flexbox',
     'de': 'Flexbox Froggy - Ein Spiel, um CSS flexbox zu lernen',
+    'da': 'Flexbox Froggy - Et spil til at lære om CSS flexbox',
     'fr': 'Flexbox Froggy - Un jeu pour apprendre les flexbox CSS',
     'pt-br': 'Flexbox Froggy - Um jogo para aprender CSS flexbox',
     'es': 'Flexbox Froggy - Un juego para aprender CSS flexbox',
@@ -102,6 +107,7 @@ var messages = {
   labelReset: {
     'en': 'Reset',
     'de': 'Zurücksetzen',
+    'da': 'Genstart',
     'fr': 'Réinitialiser',
     'pt-br': 'Reinicializar',
     'es': 'Reiniciar',
@@ -122,6 +128,7 @@ var messages = {
   warningReset: {
     'en': 'Are you sure you want to reset the game?\n\nYour saved progress will be lost and you\'ll be sent to the start of the game.',
     'de': 'Bist su sicher, dass du das Spiel zurücksetzen möchtest?\n\nDein gespeicherter Fortschritt geht dabei verloren und du musst das Spiel von neuem starten.',
+    'da': 'Er du sikker på at du vil genstarte spillet?\n\nAlle dine fremskridt vil blive tabt, og du vil blive sendt tilbage til starten af spillet.',
     'fr': 'Êtes-vous certain de vouloir réinitialiser la partie?\n\nVotre progrès sauvegardé sera perdu et vous recommencerez au début du jeu.',
     'pt-br': 'Você tem certeza que quer reinicializar o jogo?\n\nSeu progresso salvo será perdido e você voltará ao começo do jogo.',
     'es': 'Estás seguro, ¿Quieres reiniciar el juego?\n\nTu progreso se perderá y serás enviado al inicio del juego.',
